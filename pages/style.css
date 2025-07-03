@@ -1,0 +1,17 @@
+
+.pad{
+  padding: 100px;
+}
+   
+li img{
+    width: 20px;
+    height: 20px;
+}
+li{display: flex;
+padding: 5px 0px;}
+.right{
+    float:right;
+}
+.grid_c{
+    margin-top:100px;
+}
